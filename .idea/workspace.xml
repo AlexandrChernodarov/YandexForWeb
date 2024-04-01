@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="4">
-      <change afterPath="$PROJECT_DIR$/03_Список профессий/1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Список профессий/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Список профессий/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Список профессий/templates/list_prof.html" afterDir="false" />
+    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711988534293</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5">
+      <option name="closed" value="true" />
+      <created>1711989251871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711989251871</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6">
+      <option name="closed" value="true" />
+      <created>1711989724303</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711989724303</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +118,8 @@
     <MESSAGE value="Отбор астронавтов" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
 </project>
