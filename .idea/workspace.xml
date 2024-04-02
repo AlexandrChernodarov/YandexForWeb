@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="9" />
+    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Алекс/PycharmProjects/YandexForWeb/03_Class"
+    "last_opened_file_path": "C:/Users/Алекс/PycharmProjects/YandexForWeb/04_Class"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -135,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712005607544</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="10">
+      <option name="closed" value="true" />
+      <created>1712066327937</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712066327937</updated>
+    </task>
+    <task id="LOCAL-00011" summary="11">
+      <option name="closed" value="true" />
+      <created>1712066508111</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712066508111</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +164,8 @@
     <MESSAGE value="7" />
     <MESSAGE value="8" />
     <MESSAGE value="9" />
-    <option name="LAST_COMMIT_MESSAGE" value="9" />
+    <MESSAGE value="10" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
 </project>
