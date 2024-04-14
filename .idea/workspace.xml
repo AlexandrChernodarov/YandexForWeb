@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="11" />
+    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="12">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +44,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\03_Class" />
+      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\04_Class" />
       <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb" />
+      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\03_Class" />
       <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\04_ad_with_image" />
     </key>
   </component>
@@ -151,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712066508111</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="12">
+      <option name="closed" value="true" />
+      <created>1712066608645</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712066608645</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +177,7 @@
     <MESSAGE value="9" />
     <MESSAGE value="10" />
     <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
 </project>
