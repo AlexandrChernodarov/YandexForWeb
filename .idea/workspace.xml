@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="12">
+    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,20 +34,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01_jobs_api.executor": "Run",
+    "Python.06_mow_stadiums.executor": "Run",
     "Python.main_add_job.executor": "Run",
     "Python.main_auth.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Алекс/PycharmProjects/YandexForWeb/04_Class"
+    "last_opened_file_path": "C:/Users/Алекс/PycharmProjects/YandexForWeb/02web_Home"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\04_Class" />
+      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\02web_Home" />
       <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb" />
-      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\03_Class" />
-      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\04_ad_with_image" />
+      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\02_Тренировки в полете" />
+      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\02web_Class1" />
+      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\04_Class" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -162,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712066608645</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="13">
+      <option name="closed" value="true" />
+      <created>1713116397999</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713116397999</updated>
+    </task>
+    <task id="LOCAL-00014" summary="14">
+      <option name="closed" value="true" />
+      <created>1713116643807</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713116643807</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +196,8 @@
     <MESSAGE value="10" />
     <MESSAGE value="11" />
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="13" />
+    <MESSAGE value="14" />
+    <option name="LAST_COMMIT_MESSAGE" value="14" />
   </component>
 </project>
