@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="15" />
+    <list default="true" id="ae1c16aa-4a5c-4463-82bd-502261d09988" name="Changes" comment="16">
+      <change afterPath="$PROJECT_DIR$/attempt.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thefts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truth_lie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,18 +40,21 @@
   "keyToString": {
     "Python.01_jobs_api.executor": "Run",
     "Python.06_mow_stadiums.executor": "Run",
+    "Python.2_1.executor": "Run",
     "Python.main_add_job.executor": "Run",
     "Python.main_auth.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.user.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Алекс/PycharmProjects/YandexForWeb/05web_Home"
+    "last_opened_file_path": "C:/Users/Алекс/PycharmProjects/YandexForWeb"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\05web_Home" />
       <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb" />
+      <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\05web_Home" />
       <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\02web_Home" />
       <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\02_Тренировки в полете" />
       <recent name="C:\Users\Алекс\PycharmProjects\YandexForWeb\02web_Class1" />
@@ -186,8 +196,27 @@
       <option name="project" value="LOCAL" />
       <updated>1713201502967</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="16">
+      <option name="closed" value="true" />
+      <created>1713288101214</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713288101214</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Реклама с картинкой" />
@@ -205,6 +234,7 @@
     <MESSAGE value="13" />
     <MESSAGE value="14" />
     <MESSAGE value="15" />
-    <option name="LAST_COMMIT_MESSAGE" value="15" />
+    <MESSAGE value="16" />
+    <option name="LAST_COMMIT_MESSAGE" value="16" />
   </component>
 </project>
